@@ -1,0 +1,23 @@
+h1 {
+  color: #222;
+  font-family: "Trade Winds", cursive;
+  font-weight: 400;
+  font-size: 2.5rem;
+  padding-bottom: 1rem;
+  margin-left: 1.66%;
+  border-bottom: 2px solid rosybrown;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+img {
+  border-radius: 15px;
+  width: 30%;
+  min-width: 330px;
+  height: 230px;
+  margin: 1.66%;
+}
